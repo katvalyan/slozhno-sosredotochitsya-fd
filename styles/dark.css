@@ -6,14 +6,10 @@
 
 :root.theme-dark {
   --accent-color: #ff0070;
-  --motionBar: #ff0070;
+  --bg-color: rgb(1, 0, 40);
+  --motion-bar: #ff0070;
   --link: #f1b2ce;
-  --decor-color: #ff0070;
-  --menu-color: #ff0070;
   --updown-color: #db00ff;
-  --tittle-color: #ff0070;
   --mini-tittle-color: #000028;
-  --content-color: #f1b2ce;
-  --bg-image: url(../images/cover-image-dark.png);
   --font: "IBM Plex mono", sans-serif;
 }
